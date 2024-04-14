@@ -7,7 +7,7 @@
 <section id="about">
 	<div class="info">
 		<h2>
-			I'm an unconventional Engineer, I want to break the
+			I'm an unconventional Engineer, here to explore the
 			<SparklingHighlight color="secondary">frontiers !</SparklingHighlight>
 		</h2>
 		<p>
@@ -21,7 +21,7 @@
 	</div>
 	<div class="image">
 		<Image
-			src="/images/sample-image.png"
+			src="images/sample-image.png"
 			alt="Sample for the static template"
 		/>
 	</div>
