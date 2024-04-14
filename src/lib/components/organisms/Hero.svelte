@@ -9,10 +9,10 @@
 </script>
 
 <section id="hero">
-	<h1 class="hello">Hey, I'm Brian</h1>
+	<h1 class="hello">Lim Yi Sheng Brian</h1>
 	<p class="intro">
-		<span class="left">I learn and write about exponentials</span>
-		<span class="right">Let's ride 🌊</span>
+		<span class="left">I learn, build then write about</span>
+		<span class="right">the exponentials</span>
 	</p>
 	<div class="ctas">
 		<Sparkles>

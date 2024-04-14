@@ -7,7 +7,7 @@
 <section id="about">
 	<div class="info">
 		<h2>
-			I'm an unconventional Engineer, here to explore the
+			I'm passionate about bold ideas, born to explore the
 			<SparklingHighlight color="secondary">frontiers !</SparklingHighlight>
 		</h2>
 		<p>
@@ -21,7 +21,7 @@
 	</div>
 	<div class="image">
 		<Image
-			src="images/sample-image.png"
+			src="/images/me.png"
 			alt="Sample for the static template"
 		/>
 	</div>

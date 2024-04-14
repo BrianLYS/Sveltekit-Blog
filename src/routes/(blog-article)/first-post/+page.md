@@ -16,4 +16,4 @@ I will talk about the impossible, the improbable, the unlikely. I will talk abou
 
 I believe in the power of writing as a tool for an intellectual discourse with oneself. I believe that writing is a way to organize thoughts, to clarify ideas, to express feelings, to share experiences, to learn from others, and to grow as a person.
 
-For anyone who's reading this, if you find this useful or thought provoking. Please let me know. I would love to hear from you.
+For anyone who's reading this, if you find my work useful, thought provoking and would like to collaborate. Please let me know. I would love to hear from you.
