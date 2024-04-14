@@ -3,6 +3,7 @@
 	import GitHubIcon from '$lib/icons/socials/github.svelte';
 	import LinkedInIcon from '$lib/icons/socials/linkedin.svelte';
 	import EmailIcon from '$lib/icons/socials/email.svelte';
+	import MediumIcon from '$lib/icons/socials/medium.svelte';
 	import RssIcon from '$lib/icons/rss.svelte';
 	import MastodonIcon from '$lib/icons/socials/mastodon.svelte';
 </script>
@@ -23,6 +24,14 @@
 		title="Connect on LinkedIn"
 	>
 		<LinkedInIcon />
+	</a>
+	<a
+		href="https://medium.com/@brianlimyisheng1997"
+		target="_blank"
+		rel="noopener noreferrer"
+		title="Connect on Medium"
+	>
+		<MediumIcon />
 	</a>
 	<a
 		href="mailto:brianlim_yisheng@hotmail.com"
