@@ -6,10 +6,10 @@
 </script>
 
 <section id="hero">
-	<h1 class="hello">This is a SvelteKit Static Blog Template!</h1>
+	<h1 class="hello">Hey, I'm Brian</h1>
 	<p class="intro">
-		<span class="left">It supports Markdown,</span>
-		<span class="right">and is really fast.</span>
+		<span class="left">I learn and write about exponentials</span>
+		<span class="right">Let's ride 🌊</span>
 	</p>
 	<div class="ctas">
 		<Sparkles>

@@ -7,12 +7,12 @@
 <section id="about">
 	<div class="info">
 		<h2>
-			This is a catchy headline that
-			<SparklingHighlight color="secondary">sparkles!</SparklingHighlight>
+			I'm an unconventional Engineer, I want to break the
+			<SparklingHighlight color="secondary">frontiers !</SparklingHighlight>
 		</h2>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum velit voluptatibus commodi
-			autem provident quam labore, libero beatae praesentium voluptate?
+			“Specialization is for insects.” <br />
+			― Robert A. Heinlein, Time Enough for Love
 		</p>
 		<div class="socials">
 			<span>Socials:</span>
