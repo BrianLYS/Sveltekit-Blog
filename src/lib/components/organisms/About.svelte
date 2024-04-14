@@ -7,12 +7,12 @@
 <section id="about">
 	<div class="info">
 		<h2>
-			I'm passionate about bold ideas, born to explore the
-			<SparklingHighlight color="secondary">frontiers !</SparklingHighlight>
+			Generalist. In pursuit of brave and bold ideas. <br> Exploring
+			<SparklingHighlight color="secondary">new frontiers!</SparklingHighlight>
 		</h2>
 		<p>
-			“Specialization is for insects.” <br />
-			― Robert A. Heinlein, Time Enough for Love
+			"The future belongs to those who learn more skills and combine them in creative ways." <br>
+			- Robert Greene
 		</p>
 		<div class="socials">
 			<span>Socials:</span>
