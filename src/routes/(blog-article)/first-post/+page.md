@@ -8,7 +8,7 @@ tags:
   - Meta
 ---
 
-There are many developer blogs out there already, so this will be none of that. I'm not going to write about the latest technologies, or the best practices, or the most efficient ways to do things. 
+There are many developer blogs out there already, so this will be none of that. I'm not going to write about the latest technologies, or the best practices, or the most efficient ways to do things. Just how I do things.
 
 I'm not going to write about the things I know, but about the things I don't know. I'm not going to write about the things I've done, but about the things I want to do.
 
