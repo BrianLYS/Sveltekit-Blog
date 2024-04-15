@@ -7,8 +7,8 @@
 <section id="about">
 	<div class="info">
 		<h2>
-			Generalist. In pursuit of brave and bold ideas. <br> Exploring
-			<SparklingHighlight color="secondary">new frontiers!</SparklingHighlight>
+			Generalist. In pursuit of brave and bold ideas. <br> Searching for
+			<SparklingHighlight color="secondary">truth!</SparklingHighlight>
 		</h2>
 		<p>
 			"The future belongs to those who learn more skills and combine them in creative ways." <br>
